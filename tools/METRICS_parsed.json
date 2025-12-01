@@ -1,0 +1,352 @@
+[
+  {
+    "nloc": 45,
+    "ccn": 11,
+    "token": 403,
+    "param": 2,
+    "length": 45,
+    "location": "Main::ownerLoop@94-138@src/main/java/app/Main.java",
+    "function": "ownerLoop",
+    "file": "src/main/java/app/Main.java"
+  },
+  {
+    "nloc": 30,
+    "ccn": 11,
+    "token": 287,
+    "param": 2,
+    "length": 44,
+    "location": "MaquinaRefri::comprar@49-92@src/main/java/MaquinaRefri/MaquinaRefri.java",
+    "function": "comprar",
+    "file": "src/main/java/MaquinaRefri/MaquinaRefri.java"
+  },
+  {
+    "nloc": 37,
+    "ccn": 8,
+    "token": 355,
+    "param": 3,
+    "length": 41,
+    "location": "Main::clienteLoop@52-92@src/main/java/app/Main.java",
+    "function": "clienteLoop",
+    "file": "src/main/java/app/Main.java"
+  },
+  {
+    "nloc": 34,
+    "ccn": 7,
+    "token": 256,
+    "param": 1,
+    "length": 36,
+    "location": "Main::main@15-50@src/main/java/app/Main.java",
+    "function": "main",
+    "file": "src/main/java/app/Main.java"
+  },
+  {
+    "nloc": 9,
+    "ccn": 6,
+    "token": 122,
+    "param": 5,
+    "length": 9,
+    "location": "LadoClient::inserirNotas@39-47@src/main/java/LadoClient/LadoClient.java",
+    "function": "inserirNotas",
+    "file": "src/main/java/LadoClient/LadoClient.java"
+  },
+  {
+    "nloc": 18,
+    "ccn": 5,
+    "token": 194,
+    "param": 2,
+    "length": 18,
+    "location": "LadoClient::efetuarCompra@19-36@src/main/java/LadoClient/LadoClient.java",
+    "function": "efetuarCompra",
+    "file": "src/main/java/LadoClient/LadoClient.java"
+  },
+  {
+    "nloc": 16,
+    "ccn": 5,
+    "token": 128,
+    "param": 1,
+    "length": 18,
+    "location": "Caixa::calcularTroco@43-60@src/main/java/MaquinaRefri/Caixa.java",
+    "function": "calcularTroco",
+    "file": "src/main/java/MaquinaRefri/Caixa.java"
+  },
+  {
+    "nloc": 16,
+    "ccn": 4,
+    "token": 89,
+    "param": 2,
+    "length": 16,
+    "location": "Main::readInt@140-155@src/main/java/app/Main.java",
+    "function": "readInt",
+    "file": "src/main/java/app/Main.java"
+  },
+  {
+    "nloc": 16,
+    "ccn": 4,
+    "token": 96,
+    "param": 2,
+    "length": 16,
+    "location": "Main::readDouble@157-172@src/main/java/app/Main.java",
+    "function": "readDouble",
+    "file": "src/main/java/app/Main.java"
+  },
+  {
+    "nloc": 10,
+    "ccn": 3,
+    "token": 68,
+    "param": 2,
+    "length": 10,
+    "location": "MaquinaRefri::adicionarProduto@37-46@src/main/java/MaquinaRefri/MaquinaRefri.java",
+    "function": "adicionarProduto",
+    "file": "src/main/java/MaquinaRefri/MaquinaRefri.java"
+  },
+  {
+    "nloc": 10,
+    "ccn": 2,
+    "token": 112,
+    "param": 0,
+    "length": 10,
+    "location": "MaquinaRefri::relatorio@94-103@src/main/java/MaquinaRefri/MaquinaRefri.java",
+    "function": "relatorio",
+    "file": "src/main/java/MaquinaRefri/MaquinaRefri.java"
+  },
+  {
+    "nloc": 7,
+    "ccn": 2,
+    "token": 47,
+    "param": 0,
+    "length": 7,
+    "location": "Caixa::getTotalCentavos@34-40@src/main/java/MaquinaRefri/Caixa.java",
+    "function": "getTotalCentavos",
+    "file": "src/main/java/MaquinaRefri/Caixa.java"
+  },
+  {
+    "nloc": 7,
+    "ccn": 2,
+    "token": 68,
+    "param": 1,
+    "length": 7,
+    "location": "Caixa::retirarTroco@63-69@src/main/java/MaquinaRefri/Caixa.java",
+    "function": "retirarTroco",
+    "file": "src/main/java/MaquinaRefri/Caixa.java"
+  },
+  {
+    "nloc": 6,
+    "ccn": 2,
+    "token": 19,
+    "param": 0,
+    "length": 6,
+    "location": "EstoqueItem::reduzirQuantidade@22-27@src/main/java/MaquinaRefri/EstoqueItem.java",
+    "function": "reduzirQuantidade",
+    "file": "src/main/java/MaquinaRefri/EstoqueItem.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 2,
+    "token": 17,
+    "param": 1,
+    "length": 3,
+    "location": "EstoqueItem::adicionar@33-35@src/main/java/MaquinaRefri/EstoqueItem.java",
+    "function": "adicionar",
+    "file": "src/main/java/MaquinaRefri/EstoqueItem.java"
+  },
+  {
+    "nloc": 7,
+    "ccn": 1,
+    "token": 100,
+    "param": 0,
+    "length": 8,
+    "location": "MaquinaRefri::inicializarProdutos@15-22@src/main/java/MaquinaRefri/MaquinaRefri.java",
+    "function": "inicializarProdutos",
+    "file": "src/main/java/MaquinaRefri/MaquinaRefri.java"
+  },
+  {
+    "nloc": 7,
+    "ccn": 1,
+    "token": 50,
+    "param": 0,
+    "length": 8,
+    "location": "Caixa::Caixa@17-24@src/main/java/MaquinaRefri/Caixa.java",
+    "function": "Caixa",
+    "file": "src/main/java/MaquinaRefri/Caixa.java"
+  },
+  {
+    "nloc": 6,
+    "ccn": 1,
+    "token": 45,
+    "param": 4,
+    "length": 6,
+    "location": "PurchaseResult::PurchaseResult@11-16@src/main/java/MaquinaRefri/PurchaseResult.java",
+    "function": "PurchaseResult",
+    "file": "src/main/java/MaquinaRefri/PurchaseResult.java"
+  },
+  {
+    "nloc": 5,
+    "ccn": 1,
+    "token": 28,
+    "param": 2,
+    "length": 5,
+    "location": "EstoqueItem::EstoqueItem@8-12@src/main/java/MaquinaRefri/EstoqueItem.java",
+    "function": "EstoqueItem",
+    "file": "src/main/java/MaquinaRefri/EstoqueItem.java"
+  },
+  {
+    "nloc": 4,
+    "ccn": 1,
+    "token": 22,
+    "param": 2,
+    "length": 4,
+    "location": "MaquinaRefri::adicionarDinheiroAoCaixa@32-35@src/main/java/MaquinaRefri/MaquinaRefri.java",
+    "function": "adicionarDinheiroAoCaixa",
+    "file": "src/main/java/MaquinaRefri/MaquinaRefri.java"
+  },
+  {
+    "nloc": 4,
+    "ccn": 1,
+    "token": 22,
+    "param": 2,
+    "length": 4,
+    "location": "Produto::Produto@7-10@src/main/java/MaquinaRefri/Produto.java",
+    "function": "Produto",
+    "file": "src/main/java/MaquinaRefri/Produto.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 9,
+    "param": 0,
+    "length": 3,
+    "location": "MaquinaRefri::MaquinaRefri@11-13@src/main/java/MaquinaRefri/MaquinaRefri.java",
+    "function": "MaquinaRefri",
+    "file": "src/main/java/MaquinaRefri/MaquinaRefri.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 8,
+    "param": 0,
+    "length": 3,
+    "location": "MaquinaRefri::getEstoque@24-26@src/main/java/MaquinaRefri/MaquinaRefri.java",
+    "function": "getEstoque",
+    "file": "src/main/java/MaquinaRefri/MaquinaRefri.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 8,
+    "param": 0,
+    "length": 3,
+    "location": "MaquinaRefri::getCaixa@28-30@src/main/java/MaquinaRefri/MaquinaRefri.java",
+    "function": "getCaixa",
+    "file": "src/main/java/MaquinaRefri/MaquinaRefri.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 14,
+    "param": 0,
+    "length": 3,
+    "location": "MaquinaRefri::iniciar@105-107@src/main/java/MaquinaRefri/MaquinaRefri.java",
+    "function": "iniciar",
+    "file": "src/main/java/MaquinaRefri/MaquinaRefri.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 8,
+    "param": 0,
+    "length": 3,
+    "location": "Produto::getNome@12-14@src/main/java/MaquinaRefri/Produto.java",
+    "function": "getNome",
+    "file": "src/main/java/MaquinaRefri/Produto.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 8,
+    "param": 0,
+    "length": 3,
+    "location": "Produto::getPreco@16-18@src/main/java/MaquinaRefri/Produto.java",
+    "function": "getPreco",
+    "file": "src/main/java/MaquinaRefri/Produto.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 28,
+    "param": 2,
+    "length": 3,
+    "location": "Caixa::adicionarNota@26-28@src/main/java/MaquinaRefri/Caixa.java",
+    "function": "adicionarNota",
+    "file": "src/main/java/MaquinaRefri/Caixa.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 12,
+    "param": 0,
+    "length": 3,
+    "location": "Caixa::getSaldo@30-32@src/main/java/MaquinaRefri/Caixa.java",
+    "function": "getSaldo",
+    "file": "src/main/java/MaquinaRefri/Caixa.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 8,
+    "param": 0,
+    "length": 3,
+    "location": "EstoqueItem::getProduto@14-16@src/main/java/MaquinaRefri/EstoqueItem.java",
+    "function": "getProduto",
+    "file": "src/main/java/MaquinaRefri/EstoqueItem.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 8,
+    "param": 0,
+    "length": 3,
+    "location": "EstoqueItem::getQuantidade@18-20@src/main/java/MaquinaRefri/EstoqueItem.java",
+    "function": "getQuantidade",
+    "file": "src/main/java/MaquinaRefri/EstoqueItem.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 8,
+    "param": 0,
+    "length": 3,
+    "location": "EstoqueItem::getVendidos@29-31@src/main/java/MaquinaRefri/EstoqueItem.java",
+    "function": "getVendidos",
+    "file": "src/main/java/MaquinaRefri/EstoqueItem.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 19,
+    "param": 1,
+    "length": 3,
+    "location": "Money::formatCents@4-6@src/main/java/util/Money.java",
+    "function": "formatCents",
+    "file": "src/main/java/util/Money.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 17,
+    "param": 1,
+    "length": 3,
+    "location": "Money::formatDouble@8-10@src/main/java/util/Money.java",
+    "function": "formatDouble",
+    "file": "src/main/java/util/Money.java"
+  },
+  {
+    "nloc": 3,
+    "ccn": 1,
+    "token": 13,
+    "param": 1,
+    "length": 3,
+    "location": "LadoClient::LadoClient@14-16@src/main/java/LadoClient/LadoClient.java",
+    "function": "LadoClient",
+    "file": "src/main/java/LadoClient/LadoClient.java"
+  }
+]
